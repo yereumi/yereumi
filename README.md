@@ -65,26 +65,25 @@ Here are some ideas to get you started:
 	<p>
 		[2023.11.17] 제39회 데이터분석 준전문가(ADsP)<br>
 		[2023.12.15] 제51회 SQL 개발자(SQLD)<br>
+<!--
 	<details>
 		<summary><b>우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복</b></summary>
 		스프링 핵심 원리 - 기본편
-		<!--
 		* 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a><br/>
    		* 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술
 		* 모든 개발자를 위한 HTTP 웹 기본 지식
 		* 스프링 DB 1편 - 데이터 접근 핵심 원리
 		* 스프링 DB 2편
-		-->
+	
 	</details>
 	<details>
 		<summary><b>김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵</b></summary>
-		<!--
 		* 자바 ORM 표준 JPA 프로그래밍 - 기본편
 		* 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
 		* 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화
 		* 실전! 스프링 데이터 JPA
 		* 실전! Querydsl
-		-->
 	</details>
 	</p>
+-->
 </div>
