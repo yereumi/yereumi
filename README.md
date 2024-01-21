@@ -1,5 +1,5 @@
 <!--
-**yeziii01/yeziii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yereumi/yereumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 	<h2>📄 Certification 📄</h2>
 </div>
 <div align=center>
-	* <b>[2023.11.17] 제39회 데이터분석 준전문가(ADsP)</b>
-	* <b>[2023.12.15] 제51회 SQL 개발자(SQLD)</b>
+	<ol><b>[2023.11.17] 제39회 데이터분석 준전문가(ADsP)</b></ol>
+	<ol><b>[2023.12.15] 제51회 SQL 개발자(SQLD)</b></ol>
 	<details>
 		<summary><b>우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복</b></summary>
-		* 스프링 핵심 원리 - 기본편
+		<ol>스프링 핵심 원리 - 기본편</ol>
 		<!--* 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a><br/>
    		* 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술
 		* 모든 개발자를 위한 HTTP 웹 기본 지식
