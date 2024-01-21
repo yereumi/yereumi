@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 
+<!--
 <div align=center>
 	<h2>📄 Certification 📄</h2>
 </div>
@@ -65,7 +66,6 @@ Here are some ideas to get you started:
 	<p>
 		[2023.11.17] 제39회 데이터분석 준전문가(ADsP)<br>
 		[2023.12.15] 제51회 SQL 개발자(SQLD)<br>
-<!--
 	<details>
 		<summary><b>우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복</b></summary>
 		스프링 핵심 원리 - 기본편
