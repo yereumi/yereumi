@@ -28,10 +28,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
  	<br>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
 </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)
 
 <div align=center>
 	<h3>💻 Tech Stack 💻</h3>
