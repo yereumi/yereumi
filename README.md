@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+안녕하세요 백엔드 개발자 취준생 입니다.
 ![yeziii01's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeziii01&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01/)    
