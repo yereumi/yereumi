@@ -29,8 +29,9 @@ Here are some ideas to get you started:
  	<br>
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
-
-[2020~ing] 세종대학교 바이오융합공학과(주전공)/컴퓨터공학과(복수전공)
+<p>
+	[2020~ing] 세종대학교 바이오융합공학과(주전공)/컴퓨터공학과(복수전공)<br>
+</p>
 </div>
 
 <div align=center>
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-	<p>📚 Languages 📚</p>
+	<h4>📚 Languages 📚</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
- 	<p>🔜 Soon 🔜</p>
+ 	<h4>🔜 Soon 🔜</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 
  
 <div align=center>
-	<p>🛠️ Tools 🛠️</p>
+	<h4>🛠️ Tools 🛠️</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
@@ -71,26 +72,29 @@ Here are some ideas to get you started:
 	<h2>📄 Certification 📄</h2>
 </div>
 <div align=center>
-	<b>[2023.11.17] 제39회 데이터분석 준전문가(ADsP)</b>
-	<b>[2023.12.15] 제51회 SQL 개발자(SQLD)</b>
+	<p>
+		[2023.11.17] 제39회 데이터분석 준전문가(ADsP)<br>
+		[2023.12.15] 제51회 SQL 개발자(SQLD)<br>
 	<details>
 		<summary><b>우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복</b></summary>
-		<ul>
-			<li>스프링 핵심 원리 - 기본편</li>
-		<!--* 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a><br/>
+		스프링 핵심 원리 - 기본편
+		<!--
+		* 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</a><br/>
    		* 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술
 		* 모든 개발자를 위한 HTTP 웹 기본 지식
 		* 스프링 DB 1편 - 데이터 접근 핵심 원리
-		* 스프링 DB 2편-->
+		* 스프링 DB 2편
+		-->
 	</details>
 	<details>
 		<summary><b>김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵</b></summary>
-		<!--<ul>
+		<!--
 		* 자바 ORM 표준 JPA 프로그래밍 - 기본편
 		* 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
 		* 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화
 		* 실전! 스프링 데이터 JPA
 		* 실전! Querydsl
-		</ul>-->
+		-->
 	</details>
+	</p>
 </div>
