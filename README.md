@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 	<h3>💻 Tech Stack 💻</h3>
-</div><br>
+</div>
 
 <div align=center>
 	<p>📚 Languages 📚</p>
