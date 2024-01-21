@@ -26,17 +26,16 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
-	<br>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
+ 	<br>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)
 </div>
 
-<div align=center>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)
 
 <div align=center>
 	<h3>💻 Tech Stack 💻</h3>
-</div>
+</div><br>
 
 <div align=center>
 	<p>📚 Languages 📚</p>
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
 	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-</div>
+</div><br>
 
 <div align=center>
  	<p>🔜 Soon 🔜</p>
@@ -56,7 +55,7 @@ Here are some ideas to get you started:
 <div align=center>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
-</div>
+</div><br>
 
  
 <div align=center>
