@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align=center>
 	<h3>Tools</h3>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
-	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=Intellij_IDEA&logoColor=white"/>
+	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/>
 	<br>
 </div>
   
