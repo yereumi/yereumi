@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 안녕하세요 백엔드 개발자 취준생 입니다.
 <br>
+<br>
 ![Apple](https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 <details>
