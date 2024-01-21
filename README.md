@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   지금 배우는 것
 </summary>
   <br>
+  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 <summary>
   나중에 배우고 싶은 것
 </summary>
+  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
 
