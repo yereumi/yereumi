@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 안녕하세요 백엔드 개발자 취준생 입니다.
+<br>
 ![Apple](https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 <details>
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 <summary>
   나중에 배우고 싶은 것
 </summary>
+  <br>
   
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
