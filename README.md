@@ -17,15 +17,24 @@ Here are some ideas to get you started:
 <div align=center>
 	<h2>안녕하세요 매일 성장하는 백엔드 개발자 취준생입니다.</h2>
 </div>
-<div align=center>
-	<img src="https://img.shields.io/badge/MacBook_Air_M2-000000?style=flat&logo=Apple&logoColor=white"/>
+<div>
+	<h3>👩🏻‍💻 Yereumi 👩🏻‍💻</h3>
 </div>
 <div align=center>
-	<h3>Tech Stack</h3>
+	<img src="https://img.shields.io/badge/MacBook_Air_M2-000000?style=flat&logo=Apple&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
+	[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
 </div>
 
 <div align=center>
-	<p>Languages</p>
+	<h3>💻 Tech Stack 💻</h3>
+</div>
+
+<div align=center>
+	<p>📚 Languages 📚</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -37,7 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
- 	<p>Soon</p>
+ 	<p>🔜 Soon 🔜</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -46,26 +55,10 @@ Here are some ideas to get you started:
 
  
 <div align=center>
-	<p>Tools</p>
+	<p>🛠️ Tools 🛠️</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntellijIDEA&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-</div>
-
-<div align=center>
-	<p>SNS</p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
-	
-</div>
-
-  
-<div align=center>
-	<br>
-	![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lovelyyeji01)
 </div>
