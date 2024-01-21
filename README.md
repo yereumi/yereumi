@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  안녕하세요 백엔드 개발자 취준생 입니다.
-</div> <br>
-
+  <h3>안녕하세요 백엔드 개발자 취준생 입니다.</h2>
+</div>
 <div align=center>
   <img src="https://img.shields.io/badge/MacBook_Air_M2-000000?style=flat&logo=Apple&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
-![Apple](https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white)
-</div> <br>
-
+</div>
+<div align=center>
+  <h3>Tech Stack</h3>
+</div>
 <div align=center>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -32,11 +32,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 <br>
+</div>
 
+<div align=center>
+<h3>Tools</h3>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<br>
 </div>
   
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-</details>
-
+<div align=center>
+  
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lovelyyeji01)
+</div>
