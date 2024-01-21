@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 	<h1>안녕하세요 매일 성장하는 백엔드 개발자 취준생입니다.</h1>
-</div>
-<div align=center>
 	<h2>👩🏻‍💻 Yereumi 👩🏻‍💻</h2>
-</div>
-<div align=center>
 	<img src="https://img.shields.io/badge/MacBook_Air_M2-000000?style=flat&logo=Apple&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
@@ -40,8 +36,6 @@ Here are some ideas to get you started:
 
 <div align=center>
 	<h4>📚 Languages 📚</h4>
-</div>
-<div align=center>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white"/>
@@ -52,8 +46,6 @@ Here are some ideas to get you started:
 
 <div align=center>
  	<h4>🔜 Soon 🔜</h4>
-</div>
-<div align=center>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
 </div>
@@ -61,8 +53,6 @@ Here are some ideas to get you started:
  
 <div align=center>
 	<h4>🛠️ Tools 🛠️</h4>
-</div>
-<div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntellijIDEA&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
