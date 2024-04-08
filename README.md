@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 	<br>
 	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" href="https://velog.io/@yereumi"/>
+	<a href="https://velog.io/@yereumi">
+	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
+	</a>
  	<br>
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
