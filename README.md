@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/MacBook_Air_M2-000000?style=flat&logo=Apple&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+	<a href="https://www.instagram.com/yereumi.dev/"/>
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+	</a>
 	<a href="https://velog.io/@yereumi">
-	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
+	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
 	</a>
  	<br>
 	
