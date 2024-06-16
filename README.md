@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
 
 <div align=center>
-	<h1>안녕하세요 매일 성장하는 백엔드 개발자 취준생입니다.</h1>
+	<h1>데브옵스에 관심이 많은 백엔드 개발자 취준생입니다.</h1>
 	<h2>👩🏻‍💻 Yereumi 👩🏻‍💻</h2>
 	<img src="https://img.shields.io/badge/MacBook_Air_M2-000000?style=flat&logo=Apple&logoColor=white"/>
 	<br>
