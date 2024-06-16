@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <div align=center>
  	<h4>🔜 Soon 🔜</h4>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 	<!--<img src="https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=Vultr&logoColor=white"/>
