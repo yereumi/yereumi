@@ -59,13 +59,16 @@ Here are some ideas to get you started:
 
 <div align=center>
  	<h4>🔜 Soon 🔜</h4>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon&logoColor=white"/>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white"/>
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ECS-FF9900?style=flat&logo=AmazonECS&logoColor=white"/>
+	<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=AmazonS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-	<!--<img src="https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=Vultr&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>_-->
 	<br>
 	<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
