@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
 <p>
-	[2020~ing] 세종대학교 바이오융합공학과(주전공)/컴퓨터공학과(복수전공)<br>
+	[2020.03~2025.02] 세종대학교 바이오융합공학과(주전공)/컴퓨터공학과(복수전공)<br>
 </p>
 </div>
 
