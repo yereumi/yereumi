@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>
+	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white"/>
 	<!-- 
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -78,7 +79,6 @@ Here are some ideas to get you started:
 	-->
 </div>
 
- 
 <div align=center>
 	<h4>🛠️ Tools 🛠️</h4>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
@@ -86,6 +86,17 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+</div>
+
+<div align=center>
+	<h2>📍 Project 📍</h2>
+</div>
+
+<div align=center>
+	<p>
+		[2024.03~2024.06] AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity)<br>
+		[2024.08~2024.10] AI 치매 조기 진단 앱(Antiheimer)<br>
+	</p>
 </div>
 
 <div align=center>
