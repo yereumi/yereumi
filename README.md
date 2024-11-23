@@ -92,22 +92,21 @@ Here are some ideas to get you started:
 
 <div align=center>
 	<h2>📍 Project 📍</h2>
-</div>
-
-<div align=center>
-	<p>
-		[2024.03~2024.06] AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity)<br>
-		[2024.08~2024.10] AI 치매 조기 진단 앱(Antiheimer)<br>
-	</p>
+<!-- 	[2024.03~2024.06] <a href="https://github.com/yereumi/Petfinity_Backend">AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity)</a>
+	<br>
+	[2024.08~2024.10] <a href="https://github.com/yereumi/Antiheimer_Backend">AI 치매 조기 진단 앱(Antiheimer)</a> -->
+	
+|    기간    |       프로젝트명       |
+|:---------:|:-------------------:|
+| 2024.03~2024.06 | <a href="https://github.com/yereumi/Petfinity_Backend">AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity)</a> |
+| 2024.08~2024.10 | <a href="https://github.com/yereumi/Antiheimer_Backend">AI 치매 조기 진단 앱(Antiheimer)</a> |
 </div>
 
 <div align=center>
 	<h2>📄 Certification 📄</h2>
-</div>
-
-<div align=center>
-	<p>
-		[2023.11.17] 제39회 데이터분석 준전문가(ADsP)<br>
-		[2023.12.15] 제51회 SQL 개발자(SQLD)<br>
-	</p>
+	
+|    발급날짜    |       자격증       |    발급기관    |
+|:------------:|:-----------------:|:------------:|
+| 2023.11.17 | 제39회 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 |
+| 2023.12.15 | 제51회 SQL 개발자(SQLD) | 한국데이터산업진흥원 |
 </div>
