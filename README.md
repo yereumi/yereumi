@@ -40,23 +40,25 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-	<h4>📚 Stack 📚</h4>
+	<h3>📚 Stack 📚</h3>
+	<h5> Upper </h5>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+	<h5> Middle </h5>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/>
+	<h5> Lower </h5>
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </div>
 
 <div align=center>
- 	<h4>🔜 Soon 🔜</h4>
+	<!-- 
+ 	<h3>🔜 Soon 🔜</h3>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white"/>
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ECS-FF9900?style=flat&logo=AmazonECS&logoColor=white"/>
@@ -71,7 +73,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>
 	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white"/>
-	<!-- 
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -81,7 +82,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-	<h4>🛠️ Tools 🛠️</h4>
+	<h3>🛠️ Tools 🛠️</h3>
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntellijIDEA&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
@@ -110,4 +111,5 @@ Here are some ideas to get you started:
 |:------------:|:-----------------:|:------------:|
 | 2023.11.17 | 제39회 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 |
 | 2023.12.15 | 제51회 SQL 개발자(SQLD) | 한국데이터산업진흥원 |
+| 2024.12.11 | 정보처리기사 | 한국산업인력공단 |
 </div>
