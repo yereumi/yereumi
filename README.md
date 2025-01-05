@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
 
 <div align=center>
-	<h1>끊임없이 발전하는 백엔드 개발자 취준생입니다.</h1>
+	<h1>노력의 가치를 믿고 끊임없이 도전하는 개발자입니다.</h1>
 	<h2>👩🏻‍💻 Yereumi 👩🏻‍💻</h2>
 	<b>[2020.03~2025.02] 세종대학교 바이오융합공학과(주전공)/컴퓨터공학과(복수전공)</b>
 	<br><br>
