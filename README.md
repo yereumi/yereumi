@@ -17,20 +17,19 @@ Here are some ideas to get you started:
 <div>
 	<h1>노력의 가치를 믿고 끊임없이 도전하는 개발자입니다.</h1>
 	<h2>👩🏻‍💻 Yereumi</h2>
-	<b>[2020.03~2025.02] 세종대학교 바이오융합공학과(주전공) / 컴퓨터공학과(복수전공)</b>
-	<br>
-	<b> [2025.01~2025.08] LG 유플러스 유레카(URECA)</b>
-	<br><br>
-	<!-- 	
-	<img src="https://img.shields.io/badge/MacBook_Air_M2-000000?style=flat&logo=Apple&logoColor=white"/>
+	<!-- <a href=""/>
 	<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+	</a>
  	<a href="https://velog.io/@yereumi">
 	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
 	</a>
 	<a href="https://www.instagram.com/ye.reumi/"/>
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-	</a> 
-	-->
+	</a> -->
+	<b>[2020.03~2025.02] 세종대학교 바이오융합공학과(주전공) / 컴퓨터공학과(복수전공)</b>
+	<br>
+	<b> [2025.01~2025.08] LG 유플러스 유레카(URECA)</b>
+	<br><br>
 	<a href="https://solved.ac/lovelyyeji01">
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lovelyyeji01"/>
 	</a>
