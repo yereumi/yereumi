@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <!-- <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
 
-<div align=center>
+<div>
 	<h1>노력의 가치를 믿고 끊임없이 도전하는 개발자입니다.</h1>
-	<h2>👩🏻‍💻 Yereumi 👩🏻‍💻</h2>
+	<h2>👩🏻‍💻 Yereumi</h2>
 	<b>[2020.03~2025.02] 세종대학교 바이오융합공학과(주전공)/컴퓨터공학과(복수전공)</b>
 	<br>
 	<b> [2025.01~2025.08] LG 유플러스 유레카(URECA)</b>
@@ -37,12 +37,18 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-<div align=center>
-	<h2>💻 Tech Skills 💻</h2>
+<div>
+	<h2>💻 Tech Stack</h2>
+
+| Category | Skills |   
+|:---------:|:-------------------:|
+| Backend | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>|
+| DevOps | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> |
+| Tools | <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> |
 </div>
 
 <div align=center>
-	<h3>📚 Stack 📚</h3>
+	<!-- 
 	<h4> Upper </h4>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -56,11 +62,7 @@ Here are some ideas to get you started:
 	<h4> Lower </h4>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-</div>
-
-<div align=center>
-	<!-- 
- 	<h3>🔜 Soon 🔜</h3>
+ 	<h3>🔜 Soon</h3>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white"/>
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ECS-FF9900?style=flat&logo=AmazonECS&logoColor=white"/>
@@ -80,11 +82,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-	-->
-</div>
-
-<div align=center>
-	<h3>🛠️ Tools 🛠️</h3>
+	<h3>🛠️ Tools</h3>
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntellijIDEA&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
@@ -92,13 +90,11 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+	-->
 </div>
 
-<div align=center>
-	<h2>📍 Project 📍</h2>
-<!-- 	[2024.03~2024.06] <a href="https://github.com/yereumi/Petfinity_Backend">AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity)</a>
-	<br>
-	[2024.08~2024.10] <a href="https://github.com/yereumi/Antiheimer_Backend">AI 치매 조기 진단 앱(Antiheimer)</a> -->
+<div>
+	<h2>📍 Project</h2>
 	
 |    기간    |       프로젝트명       |
 |:---------:|:-------------------:|
@@ -106,8 +102,8 @@ Here are some ideas to get you started:
 | 2024.08~2024.10 | <a href="https://github.com/yereumi/Antiheimer_Backend">AI 치매 조기 진단 앱(Antiheimer)</a> |
 </div>
 
-<div align=center>
-	<h2>📄 Certification 📄</h2>
+<div>
+	<h2>📄 Certification</h2>
 	
 |    취득일    |       자격증       |    발급기관    |
 |:------------:|:-----------------:|:------------:|
