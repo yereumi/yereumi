@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div>
 	<h1>노력의 가치를 믿고 끊임없이 도전하는 개발자입니다.</h1>
 	<h2>👩🏻‍💻 Yereumi</h2>
-	<b>[2020.03~2025.02] 세종대학교 바이오융합공학과(주전공)/컴퓨터공학과(복수전공)</b>
+	<b>[2020.03~2025.02] 세종대학교 바이오융합공학과(주전공) / 컴퓨터공학과(복수전공)</b>
 	<br>
 	<b> [2025.01~2025.08] LG 유플러스 유레카(URECA)</b>
 	<br><br>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div>
 	<h2>💻 Tech Stack</h2>
 
-| Category | Skills |   
+| Category | Technologies |   
 |:---------:|:-------------------:|
 | Backend | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>|
 | DevOps | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> |
