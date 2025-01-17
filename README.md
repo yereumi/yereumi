@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 | Category    | Technologies |
 |-------------|--------------|
