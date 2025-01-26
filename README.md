@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 노력의 가치를 믿고 끊임없이 도전하는 개발자입니다.
 
-## 👩🏻‍💻 Yereumi
+## 👩🏻‍💻 Yeji Shin
 
 <!--
 [![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white)]()
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 ## 📍 Project
 
-| 기간             | 프로젝트명                                                                                  |
-|-----------------|------------------------------------------------------------------------------------------|
-| 2024.03~2024.06 | [AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity)](https://github.com/yereumi/Petfinity_Backend) |
-| 2024.08~2024.10 | [AI 치매 조기 진단 앱(Antiheimer)](https://github.com/yereumi/Antiheimer_Backend)            |
+| 기간             | 프로젝트명                                  |
+|-----------------|------------------------------------------|
+| 2024.03~2024.06 | AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity) |
+| 2024.08~2024.10 | AI 치매 조기 진단 앱(Antiheimer)             |
 
 ## 📄 Certification
 
