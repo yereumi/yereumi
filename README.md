@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 **[2025.01~2025.08] LG유플러스 유레카(URECA)**  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
+[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=lovelyyeji01)](https://solved.ac/lovelyyeji01)
+[![Solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lovelyyeji01)](https://solved.ac/lovelyyeji01)
+
+
 
 ## 🛠️ Tech Stack
 
