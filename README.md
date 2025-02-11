@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ye.reumi/)
 -->
 
-**[2020.03~2025.02] 세종대학교 바이오융합공학과(주전공) / 컴퓨터공학과(복수전공)**  
-**[2025.01~2025.08] LG유플러스 유레카(URECA)**  
+**[2020.03 ~ 2025.02] 세종대학교 바이오융합공학과(주전공) / 컴퓨터공학과(복수전공)**  
+**[2025.01 ~ 2025.08] LG유플러스 유레카(URECA)**  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01)
 [![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=lovelyyeji01)](https://solved.ac/lovelyyeji01)
-[![Solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lovelyyeji01)](https://solved.ac/lovelyyeji01)
+<!--[![Solved.ac Stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lovelyyeji01)](https://solved.ac/lovelyyeji01)-->
 
 
 
@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 | 기간             | 프로젝트명                                  |
 |-----------------|------------------------------------------|
-| 2024.03~2024.06 | AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity) |
-| 2024.08~2024.10 | AI 치매 조기 진단 앱(Antiheimer)             |
+| 2024.03 ~ 2024.06 | AI 반려동물 질병 진단 및 병원 예약 앱(Petfinity) |
+| 2024.08 ~ 2024.10 | AI 치매 조기 진단 앱(Antiheimer)             |
 
 ## 📄 Certificate
 
