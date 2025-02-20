@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 | Category    | Technologies |
 |-------------|--------------|
-| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) |
 | **DevOps/Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white) |
 | **Tools** | ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntellijIDEA&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white) |
 
@@ -64,3 +64,4 @@ Here are some ideas to get you started:
 | 2023.11.17 | 제39회 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 |
 | 2023.12.15 | 제51회 SQL 개발자(SQLD)       | 한국데이터산업진흥원 |
 | 2024.12.11 | 정보처리기사                  | 한국산업인력공단    |
+| 2025.02.09 | TOEIC Speaking(AL, 160)   | 한국TOEIC위원회 |
