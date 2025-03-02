@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ye.reumi/)
 -->
 <details>
-<summary><b>Introduction</b></summary>
+<summary><b>📍 Introduction</b></summary>
 <div markdown="1"><br>
   학창시절 <b>12년 개근</b>으로 다진 성실함을 바탕으로, 대학에서는 컴퓨터공학을 복수전공하며 <b>우등 졸업</b>이라는 값진 결실을 얻었습니다.<br><br>
   
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 | **DevOps/Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white) |
 | **Tools** | ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white) |
 
-## 📍 Project
+## 📁 Project
 
 | 기간             | 프로젝트명                                  |
 |-----------------|------------------------------------------|
