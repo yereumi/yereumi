@@ -59,13 +59,16 @@ Here are some ideas to get you started:
 ## 📁 Project
 
 <details>
-<summary><b> 🐾 Petfinity: AI 반려동물 질병 진단 및 병원 예약 앱</b></summary><br>
+<summary><b> 🐾 Petfinity: AI 반려동물 질병 진단 및 병원 예약 앱</b></summary>
   
   - **소개**
     - AI 기술을 활용한 반려동물 질병 진단 및 병원 예약을 할 수 있는 반려동물 건강 관리 앱입니다.
-    - Spring Boot 프레임워크와 MySQL 데이터베이스를 이용하여 백엔드 개발을 담당하였습니다.  
+    - Spring Boot 프레임워크와 MySQL 데이터베이스를 이용하여 백엔드 개발을 담당하였습니다.
+
   - **개발 기간**: 2024.03 ~ 2024.06 (4개월)
+
   - **기술 스택**: `Java`, `Spring Boot`, `Spring Data JPA`, `MySQL`
+
   - **주요 기능**  
     - **회원** - 회원가입, 로그인, 로그아웃, 회원 정보 조회  
     - **반려동물** - 반려동물 등록, 반려동물 목록 조회  
@@ -74,14 +77,17 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><b> 🧠 Antiheimer: AI 치매 조기 진단 앱</b></summary><br>
+<summary><b> 🧠 Antiheimer: AI 치매 조기 진단 앱</b></summary>
   
   - **소개**
     - 웨어러블 기기 기반 건강 데이터와 AI 기술을 활용하여 치매 조기 진단을 할 수 있는 건강 관리 앱입니다.
     - Ubuntu 운영체제와 SSH를 활용하여 원격 서버 환경을 구성하고 Nginx를 통해 HTTPS 보안을 적용하였습니다.
     - Spring Boot 프레임워크와 MySQL 데이터베이스를 사용하여 백엔드 개발을 담당하였습니다.
+
   - **개발 기간**: 2024.08 ~ 2024.10 (3개월)
+
   - **기술 스택**: `Java`, `Spring Boot`, `Spring Data JPA`, `MySQL`, `Ubuntu`, `Nginx`
+
   - **주요 기능**
     - **회원** - 회원가입, 로그인, 로그아웃, 회원 정보 조회
     - **위치** - 위치 정보 1시간 단위 저장, 피보호자 위치 트래킹
