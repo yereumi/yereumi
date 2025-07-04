@@ -64,3 +64,4 @@ Here are some ideas to get you started:
 | 2023.12.15 | 제51회 SQL 개발자(SQLD)       | 한국데이터산업진흥원 |
 | 2024.12.11 | 정보처리기사                  | 한국산업인력공단    |
 | 2025.02.09 | TOEIC Speaking(AL, 160)   | 한국TOEIC위원회 |
+| 2025.07.04 | 리눅스마스터 2급   | 한국정보통신진흥협회 |
