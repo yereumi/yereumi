@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </details>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=yereumi)](https://velog.io/@yereumi)
+<!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=yereumi)](https://velog.io/@yereumi)-->
 <!--[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=lovelyyeji01)](https://solved.ac/lovelyyeji01)-->
 <!--[![Solved.ac Stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lovelyyeji01)](https://solved.ac/lovelyyeji01)-->
 
