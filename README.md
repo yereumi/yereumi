@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 기술과 책임을 함께 고민하는 개발자, 신예지
 
-[![Contact](https://skillicons.dev/icons?i=gmail)](lovelyyeji01@gmail.com) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lovelyyeji01@gmail.com) &nbsp;
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yereumi)
 
 ## 📍 Introduction
