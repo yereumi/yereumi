@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## 👋 Hi! I’m Yeji
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yereumi)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lovelyyeji01@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yereumi)
 
 🌱 I’m a backend engineer who loves learning and growing every day.
 
